@@ -1,0 +1,6 @@
+/Users/milo/Projects/CSharp_TicTacToe/CSharp_TicTacToe/bin/Debug/CSharp_TicTacToe.exe
+/Users/milo/Projects/CSharp_TicTacToe/CSharp_TicTacToe/bin/Debug/CSharp_TicTacToe.pdb
+/Users/milo/Projects/CSharp_TicTacToe/CSharp_TicTacToe/obj/x86/Debug/CSharp_TicTacToe.csprojAssemblyReference.cache
+/Users/milo/Projects/CSharp_TicTacToe/CSharp_TicTacToe/obj/x86/Debug/CSharp_TicTacToe.csproj.CoreCompileInputs.cache
+/Users/milo/Projects/CSharp_TicTacToe/CSharp_TicTacToe/obj/x86/Debug/CSharp_TicTacToe.exe
+/Users/milo/Projects/CSharp_TicTacToe/CSharp_TicTacToe/obj/x86/Debug/CSharp_TicTacToe.pdb
