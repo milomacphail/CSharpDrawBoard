@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{820B23DF-89B4-4A37-BDCC-D9EF958C83F1}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="CSharp_TicTacToe/Program.cs">
     <Files>
-      <File FileName="CSharp_TicTacToe/Program.cs" Line="1" Column="1" />
+      <File FileName="CSharp_TicTacToe/Program.cs" Line="65" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.CSharp__TicTacToe FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CSharp__TicTacToe PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
